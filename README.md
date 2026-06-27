@@ -1,8 +1,7 @@
 # Week 1 Data Science Internship Assignment
 
-**Student Name:** [Your Name]  
+**Student Name:** Manahil Ahmad  
 **Mentor:** Laiba Sattar  
-**Email:** laeba0014@gmail.com  
 **Program:** Data Science Internship — Week 1  
 
 ---
